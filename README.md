@@ -17,6 +17,7 @@ To create a single-page text editor that runs in the browser that also includes 
 
 ## Screen Shot
 
+![image](https://user-images.githubusercontent.com/107436206/204155901-491c7ed3-dca2-41db-a56a-58f160601313.png)
 
  
 ## Links
