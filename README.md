@@ -22,4 +22,4 @@ To create a single-page text editor that runs in the browser that also includes 
  
 ## Links
 * Github Link: https://github.com/msalamey/Mo-Salamey-PWA-Text-Editor
-* Live URL: 
+* Live URL: https://ms-text-editor.herokuapp.com/
